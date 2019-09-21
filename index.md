@@ -12,6 +12,8 @@ ___
 Full references for packages referenced throughout this document can be found through the following links.
 
 - [Python](https://docs.python.org/3/index.html)
+- [Pip (Reference)](https://pip.pypa.io/en/stable/)
+- [Pip (Package Library)](https://pypi.org/)
 - [pep8](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
 - [RobotFramework (General Reference)](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
 - [RobotFramework (Library References)](http://robotframework.org/robotframework/#standard-libraries)
