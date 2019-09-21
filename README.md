@@ -1,8 +1,3 @@
----
-Title: Hello World
-Author: Evan Magnussen
----
-
 # Testing With Python
 
 This resource is to be used as a reference for building test suites with Python and RobotFramework. This is by no means meant to be a complete reference of ether Python or RobotFramework but as a 'Getting Started' from limited to no Python experience to running automated and manual test suites with the defined technologies.  

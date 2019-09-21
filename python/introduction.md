@@ -1,8 +1,3 @@
----
-Title: Python Introduction
-Author: Evan Magnusen
----
-
 # An Introduction to Python
 
 - [An Introduction to Python](#an-introduction-to-python)
